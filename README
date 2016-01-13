@@ -1,0 +1,3 @@
+set of scripts for the generic monitor panel plugin on xfce4
+
+apt-get install xfce4-genmon-plugin
